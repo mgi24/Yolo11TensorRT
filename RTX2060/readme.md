@@ -1,4 +1,5 @@
 exported using RTX 2060 6GB, X model not included because vram limit
+
 settings:
 
 model.export(
